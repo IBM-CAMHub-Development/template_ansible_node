@@ -1,0 +1,1 @@
+# template_ansible_node
